@@ -13,3 +13,5 @@ Nesta aula estamos aprendendo comandos bem legais e úteis.
 
 ## git commit
 **registro do status, sendo assim, como modificou, quem realizou, quando realizou**
+
+## git commit -m "texto"
