@@ -7,3 +7,6 @@ comando:
 
 para voltar para o comando 
 **git checkout [nome]**
+
+**git merge [nome]**
+comando para incluir a branch no master
